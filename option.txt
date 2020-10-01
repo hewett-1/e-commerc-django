@@ -1,1 +1,1 @@
-welcome to django ecommerce project
+welcome to django ecommerce
